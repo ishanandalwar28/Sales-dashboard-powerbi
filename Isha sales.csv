@@ -1,0 +1,16 @@
+order_id,order_date,customer_name,region,category,product_name,sales,quantity,discount,profit
+1001,2023-01-05,Asha,West,Technology,Laptop,55000,1,0.1,5000
+1002,2023-01-07,Ravi,East,Furniture,Chair,3000,2,0.05,200
+1003,2023-01-10,Neha,South,"Office Supplies",Notebook,500,5,0.02,50
+1004,2023-01-15,Amit,West,Technology,Mobile,20000,1,0.15,1500
+1005,2023-02-01,Pooja,North,Furniture,Table,8000,1,0.2,-500
+1006,2023-02-10,Karan,East,Technology,Tablet,15000,1,0.1,1200
+1007,2023-02-15,Rohit,South,"Office Supplies",Pen,200,10,0.01,30
+1008,2023-03-01,Anjali,West,Furniture,Sofa,25000,1,0.25,-2000
+1009,2023-03-10,Vikas,North,Technology,Laptop,60000,1,0.05,7000
+1010,2023-03-20,Meena,East,"Office Supplies",Printer,12000,1,0.08,900
+1011,2023-04-05,Sneha,South,Technology,Mobile,18000,1,0.12,1400
+1012,2023-04-10,Arjun,West,Furniture,Chair,3500,2,0.1,300
+1013,2023-04-18,Kavita,North,"Office Supplies",Notebook,600,6,0.03,60
+1014,2023-05-02,Deepak,East,Technology,Laptop,58000,1,0.07,6000
+1015,2023-05-10,Priya,South,Furniture,Table,9000,1,0.18,-700
